@@ -25,7 +25,7 @@
 ## Objectives & Data Questions
 ### Data Analysis Objectives
 ### Key Business Questions to Answer
-## Data Understanding
+# Data Understanding
 ### Loading Libraries and Datasets
 ### Insights from data understanding
 # Exploratory Data Analysis (EDA)
