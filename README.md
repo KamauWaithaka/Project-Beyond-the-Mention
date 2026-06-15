@@ -28,7 +28,7 @@
 # Data Understanding
 ### Loading Libraries and Datasets
 ### Insights from data understanding
-# Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 ## Data Cleaning
 ### Tweet Length by Sentiment
 ### Tweet Length Insights
@@ -44,7 +44,7 @@
 ### TF-IDF Feature Importance
 ### Most Common Words
 ### Insights from Most Common words
-## Data Preperation
+# Data Preperation
 ### Data Preprocessing
 ### Defining text and target feature
 ### Validation Strategy
